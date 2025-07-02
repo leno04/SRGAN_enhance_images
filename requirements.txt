@@ -1,0 +1,9 @@
+tensorflow
+numpy
+pandas
+matplotlib
+scikit-image
+tqdm
+opencv-python
+git+https://github.com/keras-team/keras-cv.git
+ipykernel
